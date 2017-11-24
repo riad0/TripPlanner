@@ -1,4 +1,6 @@
 
+// NAME: SAKHAWAT H
+
 package moduleProject;
 
 import java.util.Scanner;
@@ -92,17 +94,7 @@ System.out.println("***********");
 				
 				
 				
-				
-				
-			}
-
-
-
-
-
-
-
-		
+				}
 
 
 }
